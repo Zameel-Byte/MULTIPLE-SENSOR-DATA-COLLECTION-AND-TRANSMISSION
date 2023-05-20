@@ -86,12 +86,13 @@ def collect_and_transmit_data():
     # Converting RAW data
     temp_val = temperature * 0.0977
     moisture_percentage = 100 - (moisture / 1023.0) * 100
+    light_val = 500.0 / light
 
     # Prepare data in the desired format
     sensor_data = {
         "temperature": temp_val,
         "moisture": moisture_percentage,
-        "light": light
+        "light": light_val
     }
 
     # Send data to ThingSpeak
