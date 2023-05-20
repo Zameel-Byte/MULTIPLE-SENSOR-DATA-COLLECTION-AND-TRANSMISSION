@@ -29,7 +29,7 @@ Make sure to update the configuration variables (API_KEY, DEVICE_ID, THINGSPEAK_
 Bolt Python library (Install using pip install boltiot)
 
 ## Circuit Diagram 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Zameel-Byte/MULTIPLE-SENSOR-DATA-COLLECTION-AND-TRANSMISSION-/blob/main/Bolt%20IoT%20multiplexed_bb.jpg)
 
 ## Contributing
 Contributions to this project are welcome. You can contribute by adding new features, fixing bugs, or improving the documentation. Please follow the standard GitHub workflow for contributing to this project.
