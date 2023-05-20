@@ -28,6 +28,9 @@ Make sure to update the configuration variables (API_KEY, DEVICE_ID, THINGSPEAK_
 ## Dependencies
 Bolt Python library (Install using pip install boltiot)
 
+## Circuit Diagram 
+![alt text](http://url/to/img.png)
+
 ## Contributing
 Contributions to this project are welcome. You can contribute by adding new features, fixing bugs, or improving the documentation. Please follow the standard GitHub workflow for contributing to this project.
 
