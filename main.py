@@ -84,8 +84,7 @@ def collect_and_transmit_data():
     light = get_sensor_data(analog_pin, "Lig")
 
     # Converting RAW data
-    temp_adc_val = temperature * 4.88
-    temp_val = temp_adc_val / 10
+    temp_val = temperature / 10
     moisture_percentage = 100 - (moisture / 1023.0) * 100
 
     # Prepare data in the desired format
