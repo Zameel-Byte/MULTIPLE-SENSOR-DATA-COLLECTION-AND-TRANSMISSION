@@ -29,7 +29,7 @@ Make sure to update the configuration variables (API_KEY, DEVICE_ID, THINGSPEAK_
 Bolt Python library (Install using pip install boltiot)
 
 ## Circuit Diagram 
-![alt text](https://github.com/Zameel-Byte/MULTIPLE-SENSOR-DATA-COLLECTION-AND-TRANSMISSION-/blob/main/Bolt%20IoT%20multiplexed_bb.jpg)
+<img src="https://github.com/Zameel-Byte/MULTIPLE-SENSOR-DATA-COLLECTION-AND-TRANSMISSION-/blob/main/Bolt%20IoT%20multiplexed_bb.jpg"
 
 ## ThingSpeak Graphs
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2155566/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Bolt+IoT+Multiplexed+Temperature&type=column"></iframe>
