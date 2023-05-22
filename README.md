@@ -2,6 +2,7 @@
 
 This project collects data from various sensors and transmits it to the ThingSpeak platform using the Bolt IoT device. The collected data includes temperature, moisture, and light sensor readings. The project aims to provide real-time environmental data for analysis, monitoring, and visualization.
 
+### checkout https://zameel-byte.github.io/MULTIPLE-SENSOR-DATA-COLLECTION-AND-TRANSMISSION/
 ## Features
 
 - Collects sensor data from temperature, moisture, and light sensors.
@@ -36,7 +37,7 @@ Bolt Python library (Install using pip install boltiot)
 
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2155566/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Bolt+IoT+Multiplexed+Moisture+%25&type=spline"></iframe>
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2155566/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Bolt+IoT+Multiplexed+Sun+Light&type=spline"></iframe>
+<p alline: center> <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2155566/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Bolt+IoT+Multiplexed+Sun+Light&type=spline"></iframe></p>
 
 ## Contributing
 Contributions to this project are welcome. You can contribute by adding new features, fixing bugs, or improving the documentation. Please follow the standard GitHub workflow for contributing to this project.
