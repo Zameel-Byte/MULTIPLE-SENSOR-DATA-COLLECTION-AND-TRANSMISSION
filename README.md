@@ -2,6 +2,9 @@
 
 This project collects data from various sensors and transmits it to the ThingSpeak platform using the Bolt IoT device. The collected data includes temperature, moisture, and light sensor readings. The project aims to provide real-time environmental data for analysis, monitoring, and visualization.
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kbtKsQ7Rs3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 ### checkout [Website](https://zameel-byte.github.io/MULTIPLE-SENSOR-DATA-COLLECTION-AND-TRANSMISSION/)
 ## Features
 
